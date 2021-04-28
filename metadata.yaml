@@ -1,0 +1,25 @@
+_repo: The-Forest-Giant_65161
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ross, J. H.
+    gutenberg_agent_id: '53211'
+    url: http://www.gutenberg.org/2009/agents/53211
+creator:
+  author:
+    agent_name: Corbeau, Adrien le
+    gutenberg_agent_id: '53210'
+    url: http://www.gutenberg.org/2009/agents/53210
+description: ''
+gutenberg_issued: '2021-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Forest Giant
+url: http://www.gutenberg.org/ebooks/65161
